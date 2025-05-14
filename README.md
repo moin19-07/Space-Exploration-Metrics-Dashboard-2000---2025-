@@ -46,5 +46,3 @@ The goal of this project is to apply data storytelling through visual analytics 
 
 ## 📂 Data Source
 Kaggle - https://www.kaggle.com/datasets/atharvasoundankar/global-space-exploration-dataset-2000-2025
-
-** Thank You **
