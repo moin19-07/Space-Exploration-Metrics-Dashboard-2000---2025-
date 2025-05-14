@@ -39,7 +39,8 @@ This Power BI dashboard provides a comprehensive analysis of global space missio
 
 ## 💡 Purpose
 
-The goal of this project is to apply data storytelling through visual analytics in Power BI. It explores the evolving landscape of global space missions and aims to provide insights for analysts, researchers, and enthusiasts.
+This project was created as a personal learning exercise to practice data analysis and visualization using Power BI. It is intended for educational and skill-building purposes only.
+**Please do not use this dashboard for research, decision-making, or any critical applications.**
 
 ---
 
