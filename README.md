@@ -4,6 +4,9 @@ This Power BI dashboard provides a comprehensive analysis of global space missio
 
 **Note:** This project was created for practicing Power BI and enhancing my data analysis and visualization skills.
 
+![Space Exploration Metrics Dashboard (2000 - 2025)](https://github.com/user-attachments/assets/d5f7332f-691c-4bb3-9727-322354de0a35)
+
+
 ---
 
 ## Dashboard Features
